@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi, I’m Wei (Merlin) Wu
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue)](https://scholar.google.com/citations?user=BfkegRIAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-informational)](https://www.linkedin.com/in/merlinwu/)
+
+- Research: SLAM, sensor calibration, robust localization, RL for robotics
+- Publications / Patents → see Scholar
+- CV / Talks / Demos → links below
+
 
 <!--
 **merlinwwu/merlinwwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
